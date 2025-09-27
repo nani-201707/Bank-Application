@@ -12,6 +12,7 @@ public class User implements IUser{
         }else{
             accounts.add(new CurrentAccount(0));
         }
+        // Tried to create random acount Number but complicated
     }
 
     @Override
