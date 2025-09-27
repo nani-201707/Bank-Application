@@ -18,5 +18,4 @@ It demonstrates key Object-Oriented Programming (OOP) concepts like **inheritanc
 
 ---
 
-## Project Structure
 
